@@ -5,7 +5,7 @@ Title: Personal R Tool Kit
 Author: AdonRain
 Maintainer: AdonRain <leids@foxmail.name>
 Depends: R (>= 3.1.0)
-Imports: devtools
+Imports: roxygen2
 Suggests: devtools
 Description: Personal R Tool Kit
 License: MIT
