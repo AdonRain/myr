@@ -1,0 +1,15 @@
+Package: myr
+Version: 0.0.1
+Date: 2017-03-31
+Title: Personal R Tool Kit
+Author: AdonRain
+Maintainer: AdonRain <leids@foxmail.name>
+Depends: R (>= 3.1.0)
+Imports: devtools
+Suggests: devtools
+Description: Personal R Tool Kit
+License: MIT
+URL: https://github.com/AdonRain/myr
+BugReports: https://github.com/AdonRain/myr/issues
+VignetteBuilder: knitr
+RoxygenNote: 6.0.1
