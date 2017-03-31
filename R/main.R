@@ -6,7 +6,7 @@
 #'
 #' Anything else after the description goes to the Details section.
 
-myr.library <- function(package) {
+myr_library <- function(package) {
   new.package <- package[!(package %in% installed.packages()[, "Package"])]
 
   if (length(new.package)){

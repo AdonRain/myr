@@ -2,10 +2,8 @@ Package: myr
 Version: 0.0.1
 Date: 2017-03-31
 Title: Personal R Tool Kit
-Author: AdonRain
-Maintainer: AdonRain <leids@foxmail.name>
+Authors@R: person("Adon", "Rain", , "leids@foxmail.com", c("aut", "cre"))
 Depends: R (>= 3.1.0)
-Imports: roxygen2
 Suggests: devtools
 Description: Personal R Tool Kit
 License: MIT
